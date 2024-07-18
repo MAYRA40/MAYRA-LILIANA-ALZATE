@@ -6,30 +6,9 @@
 
 Soy una ingeniera de sistemas apasionada por la tecnología y la innovación. Creo firmemente en el poder de la diversidad y la inclusión en la industria tecnológica.
 
-- 💼 Actualmente trabajando en: [Empresa/Proyecto Actual]
-- 🌱 Aprendiendo: Postgrade y Mysql
-- 👯 Buscando colaborar en: [Tipo de Proyecto]
-- 💬 Pregúntame sobre: [Áreas de Conocimiento]
-- 📫 Cómo contactarme: [Tu Email]
-- 🌐 Sitio web: [Tu Sitio Web]
+- 💼 Actualmente trabajando en: Alianza Diagnostica
+- 🌱 Aprendiendo: Postgrade y SQL
+- 📫 Cómo contactarme: mayxi20@hotmail.com
 
-### 💼 Experiencia
-
-- **[Puesto Actual]** en [Empresa]
-  - Descripción de tus responsabilidades y logros.
-- **[Puesto Anterior]** en [Empresa]
-  - Descripción de tus responsabilidades y logros.
-
-### 📈 Habilidades
-
-- **Lenguajes:** Python, JavaScript, Java
-- **Frameworks:** React, Node.js, Spring Boot
-- **Herramientas:** Git, Docker, Kubernetes
-
-### 🌐 Encuéntrame en:
-
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu-usuario)
-- [Sitio Web](https://tu-sitio-web.com)
 
 ![Footer Image](https://example.com/tu-imagen-de-footer.jpg)
