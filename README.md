@@ -7,7 +7,7 @@
 Soy una ingeniera de sistemas apasionada por la tecnología y la innovación. Creo firmemente en el poder de la diversidad y la inclusión en la industria tecnológica.
 
 - 💼 Actualmente trabajando en: [Empresa/Proyecto Actual]
-- 🌱 Aprendiendo: [Tecnología o Habilidad]
+- 🌱 Aprendiendo: Postgrade y Mysql
 - 👯 Buscando colaborar en: [Tipo de Proyecto]
 - 💬 Pregúntame sobre: [Áreas de Conocimiento]
 - 📫 Cómo contactarme: [Tu Email]
